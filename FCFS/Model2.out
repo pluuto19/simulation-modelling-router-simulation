@@ -1,0 +1,59 @@
+SIMAN Run Controller.
+
+0.59736731 Hours>
+                                      ARENA Simulation Results
+                                  Asher Siddique - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/11/2024
+Analyst: Asher Siddique                                              Model revision date: 5/11/2024
+
+Replication ended at time      : 0.59736731 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+packet.VATime                               6.3249E-04 6.4172E-06 3.2763E-04 9.7246E-04   1015    
+packet.NVATime                              .00000     .00000     .00000     .00000       1015    
+packet.WaitTime                             .00570     8.4771E-04 .00000     .01667       1015    
+packet.TranTime                             .00000     .00000     .00000     .00000       1015    
+packet.OtherTime                            .00000     .00000     .00000     .00000       1015    
+packet.TotalTime                            .00633     8.4727E-04 3.3473E-04 .01725       1015    
+all delays.Queue.WaitingTime                .00570     8.4771E-04 .00000     .01667       1016    
+forward and route.Queue.WaitingTime         5.6157E-09 1.1722E-08 .00000     5.6999E-06   1015    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+packet.WIP                                  10.871     (Insuf)    .00000     39.000     8.0000    
+switching fabric.NumberBusy                 .28319     (Insuf)    .00000     1.0000     .00000    
+switching fabric.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+switching fabric.Utilization                .28319     (Insuf)    .00000     1.0000     .00000    
+port and link.NumberBusy                    .79230     (Insuf)    .00000     1.0000     1.0000    
+port and link.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+port and link.Utilization                   .79230     (Insuf)    .00000     1.0000     1.0000    
+all delays.Queue.NumberInQueue              9.7961     (Insuf)    .00000     38.000     7.0000    
+forward and route.Queue.NumberInQueue       9.5417E-06 (Insuf)    .00000     1.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+packet.NumberIn                             1023.0    
+packet.NumberOut                            1015.0    
+switching fabric.NumberSeized               1015.0    
+switching fabric.ScheduledUtilization       .28319    
+port and link.NumberSeized                  1016.0    
+port and link.ScheduledUtilization          .79230    
+System.NumberOut                            1015.0    
+
+
+Simulation run time: 0.30 minutes.
+Simulation run complete.

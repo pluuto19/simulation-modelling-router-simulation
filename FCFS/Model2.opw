@@ -1,0 +1,10 @@
+[RESOURCES]
+switching fabric
+port and link
+[VARIABLES]
+all delays.NumberIn
+all delays.NumberOut
+Dispose 1.NumberOut
+forward and route.NumberOut
+forward and route.NumberIn
+host a.NumberOut

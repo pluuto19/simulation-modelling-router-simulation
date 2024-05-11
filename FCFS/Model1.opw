@@ -1,0 +1,33 @@
+[RESOURCES]
+Output Port Output Link Z
+Output Port Output Link Y
+Output Port Output Link X
+Output Port Output Link C
+Output Port Output Link B
+Output Port Output Link A
+Router and Queue
+[VARIABLES]
+Destination Z.NumberOut
+Forward the Packets from Input to Output Links.NumberIn
+Packet Dropped.NumberOut
+Forward the Packets from Input to Output Links.NumberOut
+Destination X.NumberOut
+Destination Y.NumberOut
+Transmission and Propagation Delay for A.NumberOut
+Transmission and Propagation Delay for C.NumberOut
+Transmission and Propagation Delay for B.NumberOut
+Transmission and Propagation Delay for Z.NumberOut
+Transmission and Propagation Delay for Y.NumberOut
+Transmission and Propagation Delay for X.NumberOut
+Host C.NumberOut
+Host B.NumberOut
+Host A.NumberOut
+host c var
+host b var
+host a var
+Transmission and Propagation Delay for A.NumberIn
+Transmission and Propagation Delay for C.NumberIn
+Transmission and Propagation Delay for B.NumberIn
+Transmission and Propagation Delay for Z.NumberIn
+Transmission and Propagation Delay for Y.NumberIn
+Transmission and Propagation Delay for X.NumberIn

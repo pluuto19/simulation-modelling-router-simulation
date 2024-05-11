@@ -1,0 +1,147 @@
+SIMAN Run Controller.
+
+0.0035218843 Hours>SIMAN Run Controller.
+
+0.022127707 Hours>SIMAN Run Controller.
+
+0.040352654 Hours>SIMAN Run Controller.
+
+0.054551116 Hours>SIMAN Run Controller.
+
+0.073469652 Hours>SIMAN Run Controller.
+
+0.087360327 Hours>SIMAN Run Controller.
+
+0.098546593 Hours>SIMAN Run Controller.
+
+0.11630904 Hours>SIMAN Run Controller.
+
+0.13275383 Hours>SIMAN Run Controller.
+
+0.15065804 Hours>SIMAN Run Controller.
+
+0.20892522 Hours>SIMAN Run Controller.
+
+0.23777778 Hours>SIMAN Run Controller.
+
+0.26162327 Hours>SIMAN Run Controller.
+
+0.28696354 Hours>SIMAN Run Controller.
+
+0.30669773 Hours>SIMAN Run Controller.
+
+0.33306359 Hours>SIMAN Run Controller.
+
+0.3577644 Hours>SIMAN Run Controller.
+
+0.38295821 Hours>
+                                      ARENA Simulation Results
+                                  Asher Siddique - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/11/2024
+Analyst: Asher Siddique                                              Model revision date: 5/11/2024
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Forwarding Time                             1.9056E-05 (Corr)     .00000     .00101     125943E+01
+Packet Time A                               5.3869E-05 3.5187E-07 .00000     .00111     445508    
+Packet Time C                               6.3500E-05 3.3414E-07 .00000     .00111     377933    
+Packet Time B                               5.5045E-05 2.1715E-07 .00000     .00111     435987    
+Router Reach Time C                         6.3501E-05 3.3362E-07 3.8715E-07 .00111     377933    
+Router Reach Time B                         5.5045E-05 2.1770E-07 .00000     .00108     435987    
+Router Reach Time A                         5.3869E-05 3.5161E-07 .00000     .00111     445508    
+Router Reach Time Z                         5.7668E-05 1.4989E-07 6.4042E-06 .00111     416168    
+Router Reach Time Y                         5.7776E-05 2.7442E-07 .00000     .00104     415391    
+Router Reach Time X                         5.7780E-05 1.9445E-07 .00000     .00111     415357    
+Packet.VATime                               6.5120E-05 2.3167E-08 1.6667E-05 1.5628E-04 125943E+01
+Packet.NVATime                              .00000     .00000     .00000     .00000     125943E+01
+Packet.WaitTime                             5.0210E-04 (Corr)     .00000     .00431     125943E+01
+Packet.TranTime                             .00000     .00000     .00000     .00000     125943E+01
+Packet.OtherTime                            .00000     .00000     .00000     .00000     125943E+01
+Packet.TotalTime                            5.6722E-04 (Corr)     1.6667E-05 .00438     125943E+01
+Forward the Packets from Input to Output L  1.1424E-04 (Corr)     .00000     4.5606E-04 125943E+01
+Transmission and Propagation Delay for Z.Q  3.3300E-04 3.1346E-06 .00000     .00354     416169    
+Transmission and Propagation Delay for Y.Q  2.8399E-04 2.8365E-06 .00000     .00273     415392    
+Transmission and Propagation Delay for X.Q  4.1047E-04 7.0487E-06 .00000     .00401     415358    
+Transmission and Propagation Delay for C.Q  4.8476E-05 3.0051E-07 .00000     1.9815E-04 377934    
+Transmission and Propagation Delay for B.Q  4.3462E-05 2.0484E-07 .00000     1.5995E-04 435988    
+Transmission and Propagation Delay for A.Q  5.4245E-05 3.4002E-07 .00000     2.2195E-04 445509    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Packet.WIP                                  29.765     .25188     .00000     131.00     .00000    
+Output Port Output Link Z.NumberBusy        .77076     .00206     .00000     1.0000     .00000    
+Output Port Output Link Z.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link Z.Utilization       .77076     .00206     .00000     1.0000     .00000    
+Output Port Output Link Y.NumberBusy        .72095     .00319     .00000     1.0000     .00000    
+Output Port Output Link Y.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link Y.Utilization       .72095     .00319     .00000     1.0000     .00000    
+Output Port Output Link X.NumberBusy        .81764     .00317     .00000     1.0000     .00000    
+Output Port Output Link X.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link X.Utilization       .81764     .00317     .00000     1.0000     .00000    
+Output Port Output Link C.NumberBusy        .07000     (Corr)     .00000     1.0000     .00000    
+Output Port Output Link C.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link C.Utilization       .07000     (Corr)     .00000     1.0000     .00000    
+Output Port Output Link B.NumberBusy        .07563     2.8002E-04 .00000     1.0000     .00000    
+Output Port Output Link B.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link B.Utilization       .07563     2.8002E-04 .00000     1.0000     .00000    
+Output Port Output Link A.NumberBusy        .08770     5.3990E-04 .00000     1.0000     .00000    
+Output Port Output Link A.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link A.Utilization       .08770     5.3990E-04 .00000     1.0000     .00000    
+Router and Queue.NumberBusy                 .87460     .00236     .00000     3.0000     .00000    
+Router and Queue.NumberScheduled            3.0000     (Insuf)    3.0000     3.0000     3.0000    
+Router and Queue.Utilization                .29153     7.8727E-04 .00000     1.0000     .00000    
+Forward the Packets from Input to Output L  5.9948     .03676     .00000     82.000     .00000    
+Transmission and Propagation Delay for Z.Q  5.7744     .06970     .00000     46.000     .00000    
+Transmission and Propagation Delay for Y.Q  4.9152     .07107     .00000     49.000     .00000    
+Transmission and Propagation Delay for X.Q  7.1037     .13119     .00000     53.000     .00000    
+Transmission and Propagation Delay for C.Q  .76337     (Corr)     .00000     43.000     .00000    
+Transmission and Propagation Delay for B.Q  .78953     .00612     .00000     35.000     .00000    
+Transmission and Propagation Delay for A.Q  1.0069     .01220     .00000     41.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Packet Counter C                             377934  Infinite
+Packet Counter B                             435988  Infinite
+Packet Counter A                             445509  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Packet.NumberIn                             1.2594E+06
+Packet.NumberOut                            1.2594E+06
+Output Port Output Link Z.NumberSeized      4.1617E+05
+Output Port Output Link Z.ScheduledUtiliza  .77076    
+Output Port Output Link Y.NumberSeized      4.1539E+05
+Output Port Output Link Y.ScheduledUtiliza  .72095    
+Output Port Output Link X.NumberSeized      4.1536E+05
+Output Port Output Link X.ScheduledUtiliza  .81764    
+Output Port Output Link C.NumberSeized      3.7793E+05
+Output Port Output Link C.ScheduledUtiliza  .07000    
+Output Port Output Link B.NumberSeized      4.3599E+05
+Output Port Output Link B.ScheduledUtiliza  .07563    
+Output Port Output Link A.NumberSeized      4.4551E+05
+Output Port Output Link A.ScheduledUtiliza  .08770    
+Router and Queue.NumberSeized               1.2594E+06
+Router and Queue.ScheduledUtilization       .29153    
+System.NumberOut                            1.2594E+06
+
+
+Simulation run time: 3.08 minutes.
+Simulation run complete.

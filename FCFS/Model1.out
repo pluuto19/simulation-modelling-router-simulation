@@ -1,0 +1,291 @@
+SIMAN Run Controller.
+
+0.047378771 Hours>SIMAN Run Controller.
+
+0.075963843 Hours>SIMAN Run Controller.
+
+0.10355343 Hours>SIMAN Run Controller.
+
+0.12777778 Hours>SIMAN Run Controller.
+
+0.15463265 Hours>SIMAN Run Controller.
+
+0.18225126 Hours>SIMAN Run Controller.
+
+0.20815096 Hours>SIMAN Run Controller.
+
+0.23719614 Hours>SIMAN Run Controller.
+
+0.26562416 Hours>SIMAN Run Controller.
+
+0.29223679 Hours>SIMAN Run Controller.
+
+0.31975375 Hours>SIMAN Run Controller.
+
+0.34846421 Hours>SIMAN Run Controller.
+
+0.38017214 Hours>SIMAN Run Controller.
+
+0.40507724 Hours>SIMAN Run Controller.
+
+0.43497348 Hours>SIMAN Run Controller.
+
+0.46595724 Hours>SIMAN Run Controller.
+
+0.49698608 Hours>SIMAN Run Controller.
+
+0.52648814 Hours>SIMAN Run Controller.
+
+0.55585797 Hours>SIMAN Run Controller.
+
+0.58336299 Hours>SIMAN Run Controller.
+
+0.61478141 Hours>SIMAN Run Controller.
+
+2.0314483 Hours>SIMAN Run Controller.
+
+2.0500404 Hours>SIMAN Run Controller.
+
+2.0775232 Hours>SIMAN Run Controller.
+
+2.0979836 Hours>SIMAN Run Controller.
+
+2.1267099 Hours>SIMAN Run Controller.
+
+2.1501518 Hours>SIMAN Run Controller.
+
+2.1746503 Hours>SIMAN Run Controller.
+
+2.2085645 Hours>SIMAN Run Controller.
+
+2.2378498 Hours>SIMAN Run Controller.
+
+2.2644544 Hours>SIMAN Run Controller.
+
+2.2942514 Hours>SIMAN Run Controller.
+
+2.3222939 Hours>SIMAN Run Controller.
+
+2.3644444 Hours>SIMAN Run Controller.
+
+2.3866705 Hours>SIMAN Run Controller.
+
+2.4114583 Hours>SIMAN Run Controller.
+
+2.4378339 Hours>SIMAN Run Controller.
+
+2.4688939 Hours>SIMAN Run Controller.
+
+2.4933678 Hours>SIMAN Run Controller.
+
+2.5235029 Hours>SIMAN Run Controller.
+
+2.5501219 Hours>SIMAN Run Controller.
+
+2.5780781 Hours>SIMAN Run Controller.
+
+2.6056535 Hours>SIMAN Run Controller.
+
+2.6344664 Hours>SIMAN Run Controller.
+
+2.6651575 Hours>SIMAN Run Controller.
+
+2.7011111 Hours>SIMAN Run Controller.
+
+2.7333692 Hours>SIMAN Run Controller.
+
+2.7522882 Hours>SIMAN Run Controller.
+
+2.7855923 Hours>SIMAN Run Controller.
+
+2.8244706 Hours>SIMAN Run Controller.
+
+2.8958433 Hours>SIMAN Run Controller.
+
+2.9261655 Hours>SIMAN Run Controller.
+
+2.9755984 Hours>SIMAN Run Controller.
+
+3.0030062 Hours>SIMAN Run Controller.
+
+3.0316166 Hours>SIMAN Run Controller.
+
+3.0679661 Hours>SIMAN Run Controller.
+
+3.0967622 Hours>SIMAN Run Controller.
+
+3.1271609 Hours>SIMAN Run Controller.
+
+3.1577778 Hours>SIMAN Run Controller.
+
+3.1890938 Hours>SIMAN Run Controller.
+
+3.2188889 Hours>SIMAN Run Controller.
+
+3.2492236 Hours>SIMAN Run Controller.
+
+3.275776 Hours>SIMAN Run Controller.
+
+3.306754 Hours>SIMAN Run Controller.
+
+3.3344444 Hours>SIMAN Run Controller.
+
+3.3697882 Hours>SIMAN Run Controller.
+
+3.4005515 Hours>SIMAN Run Controller.
+
+3.4315539 Hours>SIMAN Run Controller.
+
+3.4600528 Hours>SIMAN Run Controller.
+
+3.4877896 Hours>SIMAN Run Controller.
+
+3.5115698 Hours>SIMAN Run Controller.
+
+3.5388889 Hours>SIMAN Run Controller.
+
+3.5612662 Hours>SIMAN Run Controller.
+
+3.5855964 Hours>SIMAN Run Controller.
+
+3.6233542 Hours>SIMAN Run Controller.
+
+3.9009538 Hours>SIMAN Run Controller.
+
+3.929046 Hours>SIMAN Run Controller.
+
+3.9545504 Hours>SIMAN Run Controller.
+
+3.9868213 Hours>SIMAN Run Controller.
+
+4.0144444 Hours>SIMAN Run Controller.
+
+4.0512661 Hours>SIMAN Run Controller.
+
+4.0988889 Hours>SIMAN Run Controller.
+
+4.1257671 Hours>SIMAN Run Controller.
+
+4.1523091 Hours>SIMAN Run Controller.
+
+4.1747504 Hours>SIMAN Run Controller.
+
+4.2008634 Hours>SIMAN Run Controller.
+
+4.2308045 Hours>SIMAN Run Controller.
+
+4.26336 Hours>SIMAN Run Controller.
+
+4.2933596 Hours>SIMAN Run Controller.
+
+4.3307546 Hours>
+                                      ARENA Simulation Results
+                                  Asher Siddique - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 5/11/2024
+Analyst: Asher Siddique                                              Model revision date: 5/11/2024
+
+Replication ended at time      : 24.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Forwarding Time                             1.9065E-05 6.4610E-08 .00000     .00103     125880E+01
+Packet Time A                               5.4154E-05 3.4862E-07 .00000     .00111     443161    
+Packet Time C                               6.3139E-05 4.3416E-07 .00000     .00111     380094    
+Packet Time B                               5.5101E-05 1.9995E-07 .00000     .00111     435546    
+Router Reach Time C                         6.3140E-05 4.3399E-07 3.3143E-07 .00111     380094    
+Router Reach Time B                         5.5101E-05 1.9971E-07 .00000     .00108     435546    
+Router Reach Time A                         5.4154E-05 3.4881E-07 .00000     .00111     443161    
+Router Reach Time Z                         5.7891E-05 2.2099E-07 6.2422E-06 .00105     414564    
+Router Reach Time Y                         5.7715E-05 2.6347E-07 .00000     .00159     415822    
+Router Reach Time X                         5.7700E-05 2.2004E-07 .00000     .00105     415941    
+Packet.VATime                               6.5125E-05 2.8866E-08 1.6667E-05 1.6128E-04 125880E+01
+Packet.NVATime                              .00000     .00000     .00000     .00000     125880E+01
+Packet.WaitTime                             5.0021E-04 3.8515E-06 .00000     .00311     125880E+01
+Packet.TranTime                             .00000     .00000     .00000     .00000     125880E+01
+Packet.OtherTime                            .00000     .00000     .00000     .00000     125880E+01
+Packet.TotalTime                            5.6533E-04 3.8501E-06 1.6667E-05 .00319     125880E+01
+Forward the Packets from Input to Output L  1.1411E-04 4.1604E-07 .00000     4.2755E-04 125880E+01
+Transmission and Propagation Delay for Z.Q  3.2924E-04 3.8426E-06 .00000     .00213     414565    
+Transmission and Propagation Delay for Y.Q  2.8500E-04 2.7230E-06 .00000     .00155     415823    
+Transmission and Propagation Delay for X.Q  4.0798E-04 7.3257E-06 .00000     .00271     415942    
+Transmission and Propagation Delay for C.Q  4.8513E-05 3.3424E-07 .00000     1.9626E-04 380095    
+Transmission and Propagation Delay for B.Q  4.3445E-05 1.5917E-07 .00000     1.5983E-04 435547    
+Transmission and Propagation Delay for A.Q  5.4065E-05 3.5833E-07 .00000     2.1870E-04 443162    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Packet.WIP                                  29.651     .27591     .00000     138.00     .00000    
+Output Port Output Link Z.NumberBusy        .76761     .00284     .00000     1.0000     .00000    
+Output Port Output Link Z.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link Z.Utilization       .76761     .00284     .00000     1.0000     .00000    
+Output Port Output Link Y.NumberBusy        .72211     .00362     .00000     1.0000     .00000    
+Output Port Output Link Y.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link Y.Utilization       .72211     .00362     .00000     1.0000     .00000    
+Output Port Output Link X.NumberBusy        .81862     .00291     .00000     1.0000     .00000    
+Output Port Output Link X.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link X.Utilization       .81862     .00291     .00000     1.0000     .00000    
+Output Port Output Link C.NumberBusy        .07038     4.8007E-04 .00000     1.0000     .00000    
+Output Port Output Link C.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link C.Utilization       .07038     4.8007E-04 .00000     1.0000     .00000    
+Output Port Output Link B.NumberBusy        .07559     3.2155E-04 .00000     1.0000     .00000    
+Output Port Output Link B.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link B.Utilization       .07559     3.2155E-04 .00000     1.0000     .00000    
+Output Port Output Link A.NumberBusy        .08733     5.5679E-04 .00000     1.0000     .00000    
+Output Port Output Link A.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Output Port Output Link A.Utilization       .08733     5.5679E-04 .00000     1.0000     .00000    
+Router and Queue.NumberBusy                 .87417     .00297     .00000     3.0000     .00000    
+Router and Queue.NumberScheduled            3.0000     (Insuf)    3.0000     3.0000     3.0000    
+Router and Queue.Utilization                .29139     9.9158E-04 .00000     1.0000     .00000    
+Forward the Packets from Input to Output L  5.9850     .04062     .00000     76.000     .00000    
+Transmission and Propagation Delay for Z.Q  5.6871     .08598     .00000     49.000     .00000    
+Transmission and Propagation Delay for Y.Q  4.9379     .06438     .00000     38.000     .00000    
+Transmission and Propagation Delay for X.Q  7.0706     .12673     .00000     58.000     .00000    
+Transmission and Propagation Delay for C.Q  .76831     .00985     .00000     43.000     .00000    
+Transmission and Propagation Delay for B.Q  .78844     .00668     .00000     35.000     .00000    
+Transmission and Propagation Delay for A.Q  .99832     .01222     .00000     41.000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Packet Counter C                             380095  Infinite
+Packet Counter B                             435547  Infinite
+Packet Counter A                             443162  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Packet.NumberIn                             1.2588E+06
+Packet.NumberOut                            1.2588E+06
+Output Port Output Link Z.NumberSeized      4.1457E+05
+Output Port Output Link Z.ScheduledUtiliza  .76761    
+Output Port Output Link Y.NumberSeized      4.1582E+05
+Output Port Output Link Y.ScheduledUtiliza  .72211    
+Output Port Output Link X.NumberSeized      4.1594E+05
+Output Port Output Link X.ScheduledUtiliza  .81862    
+Output Port Output Link C.NumberSeized      3.8010E+05
+Output Port Output Link C.ScheduledUtiliza  .07038    
+Output Port Output Link B.NumberSeized      4.3555E+05
+Output Port Output Link B.ScheduledUtiliza  .07559    
+Output Port Output Link A.NumberSeized      4.4316E+05
+Output Port Output Link A.ScheduledUtiliza  .08733    
+Router and Queue.NumberSeized               1.2588E+06
+Router and Queue.ScheduledUtilization       .29139    
+System.NumberOut                            1.2588E+06
+
+
+Simulation run time: 2.30 minutes.
+Simulation run complete.
